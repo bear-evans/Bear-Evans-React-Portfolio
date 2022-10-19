@@ -1,0 +1,3 @@
+D:\Development\Bear-Evans-React-Portfolio\Bear Evans React Portfolio\obj\Debug\Bear Evans React Portfolio.njsproj.AssemblyReference.cache
+D:\Development\Bear-Evans-React-Portfolio\Bear Evans React Portfolio\obj\Debug\Bear Evans React Portfolio.njsproj.CoreCompileInputs.cache
+D:\Development\Bear-Evans-React-Portfolio\Bear Evans React Portfolio\bin\Microsoft.NodejsTools.WebRole.dll
